@@ -1,0 +1,28 @@
+﻿生成启动时间为 2015/11/25 15:33:48。
+     1>项目“C:\Users\jszx\Desktop\20131105786fz1.6\20131105786fz\20131105786fz.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\20131105786fz.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\20131105786fz.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 20131105786fz.cpp
+         20131105786fz.cpp
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\jszx\Desktop\20131105786fz1.6\Debug\20131105786fz.exe" /INCREMENTAL /NOLOGO opencv_calib3d248d.lib opencv_contrib248d.lib opencv_core248d.lib opencv_features2d248d.lib opencv_flann248d.lib opencv_gpu248d.lib opencv_highgui248d.lib opencv_imgproc248d.lib opencv_legacy248d.lib opencv_ml248d.lib opencv_objdetect248d.lib opencv_ts248d.lib opencv_video248d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\20131105786fz.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\jszx\Desktop\20131105786fz1.6\Debug\20131105786fz.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\jszx\Desktop\20131105786fz1.6\Debug\20131105786fz.lib" /MACHINE:X86 Debug\20131105786fz.exe.embed.manifest.res
+         Debug\20131105786fz.obj
+         Debug\stdafx.obj
+       Manifest:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\20131105786fz.exe.embed.manifest" /manifest Debug\20131105786fz.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         20131105786fz.vcxproj -> C:\Users\jszx\Desktop\20131105786fz1.6\Debug\20131105786fz.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\20131105786fz.unsuccessfulbuild”。
+         正在对“Debug\20131105786fz.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\jszx\Desktop\20131105786fz1.6\20131105786fz\20131105786fz.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.36
